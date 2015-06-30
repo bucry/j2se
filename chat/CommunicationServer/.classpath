@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/xbean-spring-3.11.1.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/spring-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/ognl-3.0.5.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-transport-apr-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-statemachine-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-integration-xbean-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-integration-ognl-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-integration-jmx-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-integration-beans-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-filter-compression-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-example-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/jzlib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/mina/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/j8583-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/CommunicationServer/libs/MongoDB/mongo-2.10.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

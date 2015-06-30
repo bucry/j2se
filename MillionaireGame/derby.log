@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 06 11:29:38 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0145-3515-96b5-000002445808 
+on database directory /home/java/Work/MillionaireGame/game  with class loader sun.misc.Launcher$AppClassLoader@c94114 
+Loaded from file:/root/Downloads/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_10-b18
+user.dir=/home/java/Work/MillionaireGame
+os.name=Linux
+os.arch=i386
+os.version=2.6.32-431.11.2.el6.i686
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

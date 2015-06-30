@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/java/J3D/lib/ext/j3dcore.jar"/>
+	<classpathentry kind="lib" path="/home/java/J3D/lib/ext/j3dutils.jar"/>
+	<classpathentry kind="lib" path="/home/java/J3D/lib/ext/vecmath.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/Game3D/j3dedit.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/Game3D/j3dfly.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/Game3D/Java3D-骨骼动画.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/Game3D/NWM.jar"/>
+	<classpathentry kind="lib" path="/home/java/skin/新建文件夹/substance.jar"/>
+	<classpathentry kind="lib" path="/home/java/skin/新建文件夹/trident.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,46 @@
+#MAXMODEL ASCII
+# model: gidy_sun 
+filedependancy gidy_sun.max
+newmodel gidy_sun 
+setsupermodel gidy_sun NULL
+classification Item
+
+#MAXGEOM  ASCII
+beginmodelgeom gidy_sun 
+node dummy gidy_sun 
+  parent NULL 
+endnode
+node light gidy_sun_amb 
+  parent gidy_sun 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+  radius 100000.0 
+  color 0.313726 0.352941 0.431373  
+  ambientonly 1 
+  isDynamic 1 
+  affectDynamic 1 
+  shadow 0 
+  lightpriority 1 
+  lensflares 0
+  fadingLight 1
+endnode
+node light gidy_sun_diff 
+  parent gidy_sun 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+  radius 100000.0 
+  color 1.0 1.0 1.0  
+  ambientonly 0 
+  isDynamic 1 
+  affectDynamic 1 
+  shadow 1 
+  lightpriority 1 
+  lensflares 0
+  fadingLight 1
+endnode
+endmodelgeom gidy_sun 
+
+donemodel gidy_sun 
+

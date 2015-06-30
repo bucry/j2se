@@ -1,0 +1,45 @@
+#MAXMODEL ASCII
+# model: gidy_intlight 
+filedependancy gidy_intlight.max 
+newmodel gidy_intlight 
+setsupermodel gidy_intlight NULL
+classification tile
+
+#MAXGEOM  ASCII
+beginmodelgeom gidy_intlight 
+bmin -99999 -99999 -99999
+bmax  99999 99999 99999
+radius 13000
+node dummy gidy_intlight 
+  parent NULL 
+endnode
+node light gidy_intlight_amb 
+  parent gidy_intlight 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294 
+  color 0.28 0.28 0.4 
+  radius 100000.0 
+  ambientonly 1 
+  isDynamic 0 
+  affectDynamic 1 
+  lightpriority 1 
+  shadow 0 
+endnode
+node light gidy_intlight_diff 
+  parent gidy_intlight 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 1.0 1.0 1.0 
+  color 0.0 0.0 0.0 
+  radius 100000.0 
+  ambientonly 0 
+  isDynamic 0 
+  affectDynamic 1 
+  lightpriority 1 
+  shadow 0 
+endnode
+endmodelgeom gidy_intlight 
+
+donemodel gidy_intlight 
+

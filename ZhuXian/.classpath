@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/trident.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/substance.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/netmp3.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/netlrc.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/mymp3playerctl.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/kj_dsp1.1.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/jl1.0.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="/home/java/Work/ZhuXian/libs/music/basicplayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
